@@ -21,7 +21,7 @@ git branch Mobile_testing
 git push -u origin Postman
 git push -u origin Jmeter
 git push -u origin CheckLists
-git push -u origin Bag Reports
+git push -u origin Bag_Reports
 git push -u origin SQL
 git push -u origin Charles
 git push -u origin Mobile_testing
@@ -38,7 +38,16 @@ git commit -am "add BR1.txt"
 git push
 
 5. Вмержить ветку Bag Reports в Main
+
+git checkot main
+git merge Bag_Reports
+
 6. Запушить main на внешний репозиторий.
+
+git add .
+git commit -am "add merge BR1"
+git push
+
 7. В ветке CheckLists набросать структуру чек листа.
 8. Запушить структуру на внешний репозиторий
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
