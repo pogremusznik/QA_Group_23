@@ -1,0 +1,20 @@
+Build
+Enviroment
+Test data
+Tester
+Test Type
+test1:
+	Smoke
+	CP
+	CP
+	EXT
+test2:
+	Smoke
+	CP
+	CP
+	EXT
+test3:
+	EXT
+	EXT
+	EXT
+Result:
