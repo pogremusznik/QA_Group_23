@@ -1,0 +1,20 @@
+Build
+Environment
+Test data
+Tester
+Test Type:
+	Name test 1
+		Smoke
+		CP
+		CP
+		EXT
+	Name test 2
+		Smoke
+		CP
+		CP
+		EXT
+	Name test 3
+		EXT
+		EXT
+		EXT
+Result:CHL1.txt
