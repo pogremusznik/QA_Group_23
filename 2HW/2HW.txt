@@ -61,4 +61,11 @@ git commit -am "add merge СHL1"
 git push
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
+
+Выбрать ветку СheckLists 	и нажать на кнопку Pull Request
+Позже подтвердить мерж ветки в main
+
 10. Синхронизировать Внешнюю и Локальную ветки Main
+
+git checkot main
+git full
